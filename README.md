@@ -44,7 +44,7 @@
 
 ## 部署
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/7Sageer/sublink-worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ivwv/sublink-worker)
 
 > 提示：确保你的Cloudflare账户已经开通R2储存服务
 
